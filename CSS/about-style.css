@@ -115,7 +115,7 @@ nav .logo {
     text-align: center;
     font-family: 'Playfair Display', serif;
     letter-spacing: 1px;
-    font-size: 0.8rem; /*wont work, not sure why*/
+    font-size: 0.8rem;
     padding: 15px 0;
 }
 
@@ -168,7 +168,6 @@ h6 {
     color: #ffffff9a;
     margin-top: auto;
 }
-
 
 
 }
